@@ -1,0 +1,8 @@
+prefix=/home/nvidia/xycar_ws/devel
+
+Name: human_track
+Description: Description of human_track
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

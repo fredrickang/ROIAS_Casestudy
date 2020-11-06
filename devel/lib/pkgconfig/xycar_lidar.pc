@@ -1,0 +1,8 @@
+prefix=/home/nvidia/xycar_ws/devel
+
+Name: xycar_lidar
+Description: Description of xycar_lidar
+Version: 1.9.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/nvidia/xycar_ws/devel
+
+Name: sensor_drive
+Description: Description of sensor_drive
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
